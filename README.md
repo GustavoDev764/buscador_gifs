@@ -4,7 +4,7 @@ Este foi feito em Flutter.
 
 ## Sobre
 
-E um app que busca gifs direto do site [Giphy](https://giphy.com/),.
+E um app que busca gifs direto do site [Giphy](https://giphy.com/).
 
 Funcionalidade do app
 
