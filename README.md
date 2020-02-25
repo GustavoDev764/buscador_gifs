@@ -12,6 +12,9 @@ Funcionalidade do app
 - Compartilha
 - Busca
 
+<img src="Fotos/gif1.png" height="600" width="300">
+<img src="Fotos/gif2.png" height="600" width="300">
+<img src="Fotos/gif3.png" height="600" width="300">
 
 ## Documentação online do Flutter
 For help getting started with Flutter, view our
